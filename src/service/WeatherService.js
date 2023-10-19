@@ -5,7 +5,7 @@ const WeatherService = () => {
     try {
       const data = await axios
         .get(
-          `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&units=Metric&appid=7d876e4a53a29deee9c0eebc85e7fc76`
+          `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&units=Metric&appid=b648bacc374f94f4f57cb5ec6ccee5e7`
         )
         .then((res) => res);
 
@@ -23,7 +23,7 @@ const WeatherService = () => {
     try {
       const data = await axios
         .get(
-          `https://api.openweathermap.org/data/2.5/forecast?lat=${lat}&lon=${lon}&units=Metric&appid=7297e3a0e53c94f18dd547f8df9167eb`
+          `https://api.openweathermap.org/data/2.5/forecast?lat=${lat}&lon=${lon}&units=Metric&appid=b648bacc374f94f4f57cb5ec6ccee5e7`
         )
         .then((res) => res);
 
