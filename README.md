@@ -1,4 +1,13 @@
 # Getting Started with Create React App
+![Screenshot 2023-11-08 234003](https://github.com/Tiran-Jayasekara/weatherApp/assets/70306643/35bf8bb1-8e56-468d-8938-23575b23ea5c)
+![Screenshot 2023-11-08 233950](https://github.com/Tiran-Jayasekara/weatherApp/assets/70306643/dd013dd3-8fab-455e-abf9-9eca442060f9)
+![Screenshot 2023-11-08 233854](https://github.com/Tiran-Jayasekara/weatherApp/assets/70306643/82b400e7-bc74-4f7c-bcb7-bef667a64e8f)
+![Screenshot 2023-11-08 233840](https://github.com/Tiran-Jayasekara/weatherApp/assets/70306643/dbfa7063-9e8d-47fd-81ef-3b49232be54c)
+![Screenshot 2023-11-08 233823](https://github.com/Tiran-Jayasekara/weatherApp/assets/70306643/1adcc7fb-1a93-4ca9-95f8-853974eb0011)
+![Screenshot 2023-11-08 233810](https://github.com/Tiran-Jayasekara/weatherApp/assets/70306643/ae4773e3-5e62-440c-9028-ff3564c7a22d)
+![Screenshot 2023-11-08 233749](https://github.com/Tiran-Jayasekara/weatherApp/assets/70306643/7bf7e1ab-608d-431f-a7f0-67b9b46391ae)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
